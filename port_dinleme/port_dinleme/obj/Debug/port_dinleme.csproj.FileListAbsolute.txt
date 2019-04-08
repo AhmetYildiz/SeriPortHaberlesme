@@ -1,0 +1,9 @@
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\bin\Debug\port_dinleme.exe.config
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\bin\Debug\port_dinleme.exe
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\bin\Debug\port_dinleme.pdb
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\obj\Debug\port_dinleme.csprojResolveAssemblyReference.cache
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\obj\Debug\port_dinleme.Form1.resources
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\obj\Debug\port_dinleme.Properties.Resources.resources
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\obj\Debug\port_dinleme.csproj.GenerateResource.Cache
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\obj\Debug\port_dinleme.exe
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_dinleme\port_dinleme\obj\Debug\port_dinleme.pdb
